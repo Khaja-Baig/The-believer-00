@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @The-believer-00
-- 👀 I’m interested in Sports
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m currently mentoring students at NavGurukul.
+I’m currently learning Kotlin from Navgurukul.
+mailbox Check my professional history here: https://wwww.linkedin.com/in/khajabaig/
+Fun fact: Learning new things every day !
 
 <!---
 The-believer-00/The-believer-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
