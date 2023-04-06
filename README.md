@@ -1,5 +1,5 @@
 I’m currently mentoring students at NavGurukul.
-I’m currently learning Kotlin from Navgurukul.
+I’m currently learning coding at Navgurukul.
 mailbox Check my professional history here: https://wwww.linkedin.com/in/khajabaig/
 Fun fact: Learning new things every day !
 
